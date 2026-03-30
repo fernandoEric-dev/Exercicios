@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class lista_tres {
+public class D_ex_seis {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Converter graus Celsius para Fahrenheit\n digite abaixo a temperatura em Celsius");

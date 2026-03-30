@@ -1,14 +1,13 @@
 
 import java.util.Scanner;
 
-
-public class Lista_cinco {
+public class E_ex_sete {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Conversor de Graus kelvin Para Celsius");
+
         double n1 = sc.nextDouble();
 
-        System.out.println(n1 - 273.15);
+        System.out.println(5.0*(n1-32.0)/9.0);
     }
 }
- // Exercicio 8
+// Exercicio 7

@@ -1,8 +1,6 @@
-package lista_atividades;
-
 import java.util.Scanner;
 
-public class lista {
+public class A_ex_um_tres {
     public static void main(String[] args) {
     
         Scanner sc = new Scanner(System.in);
