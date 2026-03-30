@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class H_ex_dez_sete {
+public class H_ex_dez {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
